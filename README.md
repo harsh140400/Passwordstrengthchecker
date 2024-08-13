@@ -12,9 +12,7 @@ A simple Password Strength Checker web application that evaluates the strength o
   - Includes at least one special character (e.g., `!@#$%^&*()`).
 - **User-Friendly Design:** Clean and simple UI design for ease of use.
 
-## Demo
 
-You can view the live demo of the Password Strength Checker [here](#).
 
 ## Installation
 
@@ -23,7 +21,9 @@ You can view the live demo of the Password Strength Checker [here](#).
    ```bash
    git clone https://github.com/harsh140400/Passwordstrengthchecker.git
 
-2. bash
-   cd Passwordstrengthchecker
-3. index.html
-   open index.html
+ 2.**Bash:**
+
+    cd Passwordstrengthchecker
+   3.**Open index.html in your Web Browser:**
+
+    open index.html
